@@ -1,0 +1,9 @@
+FirstName : Ched adrian
+MiddleName: Tabigue
+LastName  : Lagura
+Gender    : Male
+Age       : 21
+Birthday  : October 13 2003
+Contacts  :
+   Numbers: 09388887614
+   Email  : adrianlagura33@gmail.com
