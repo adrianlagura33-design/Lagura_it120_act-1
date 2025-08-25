@@ -540,3 +540,52 @@ M       Education.txt
 M       Profile.txt
 Switched to branch 'Lagura_B2'
 Your branch is up to date with 'origin/Lagura_B2'.
+
+lenovo@DESKTOP-RFKMUIL MINGW64 ~/desktop/Lagura_it120_act-1 (Lagura_B2)
+$ notepad Readme.txt
+
+lenovo@DESKTOP-RFKMUIL MINGW64 ~/desktop/Lagura_it120_act-1 (Lagura_B2)
+$ git add Readme.txt
+
+lenovo@DESKTOP-RFKMUIL MINGW64 ~/desktop/Lagura_it120_act-1 (Lagura_B2)
+$ git commit -m "Update Readme.txt"
+[Lagura_B2 da52c03] Update Readme.txt
+ 1 file changed, 238 insertions(+)
+
+lenovo@DESKTOP-RFKMUIL MINGW64 ~/desktop/Lagura_it120_act-1 (Lagura_B2)
+$ git checkout master
+M       Background.txt
+M       Education.txt
+M       Profile.txt
+Switched to branch 'master'
+
+lenovo@DESKTOP-RFKMUIL MINGW64 ~/desktop/Lagura_it120_act-1 (master)
+$ git notepad Readme.txt
+git: 'notepad' is not a git command. See 'git --help'.
+
+lenovo@DESKTOP-RFKMUIL MINGW64 ~/desktop/Lagura_it120_act-1 (master)
+$ notepad Readme.txt
+
+lenovo@DESKTOP-RFKMUIL MINGW64 ~/desktop/Lagura_it120_act-1 (master)
+$ git add Readme.txt
+
+lenovo@DESKTOP-RFKMUIL MINGW64 ~/desktop/Lagura_it120_act-1 (master)
+$ git checkout Lagura_B
+M       Background.txt
+M       Education.txt
+M       Profile.txt
+M       Readme.txt
+Switched to branch 'Lagura_B'
+Your branch is up to date with 'origin/Lagura_B'.
+
+lenovo@DESKTOP-RFKMUIL MINGW64 ~/desktop/Lagura_it120_act-1 (Lagura_B)
+$ notepad Readme.txt
+
+lenovo@DESKTOP-RFKMUIL MINGW64 ~/desktop/Lagura_it120_act-1 (Lagura_B)
+$ git add Readme.txt
+
+lenovo@DESKTOP-RFKMUIL MINGW64 ~/desktop/Lagura_it120_act-1 (Lagura_B)
+$ git commit -m "Update Readme.txt"
+[Lagura_B aa632fd] Update Readme.txt
+ 1 file changed, 542 insertions(+)
+
